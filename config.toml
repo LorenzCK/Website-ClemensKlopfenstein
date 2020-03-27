@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "de"
+title = "Clemens Klopfenstein"
+theme = "noteworthy"
